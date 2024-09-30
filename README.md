@@ -5,8 +5,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap" rel="stylesheet">
 
-
-<div style="background-image: url('https://github.com/shexweeknd/blob/shexweeknd/walp.jpg'); background-size: cover; display: flex; align-items: center; justify-content: center; width: 100%; height: 360px; margin-bottom: 15px">
+<div style="background-image: url('https://github.com/shexweeknd/blob/blob/main/shexweeknd/walp.jpg'); background-size: cover; display: flex; align-items: center; justify-content: center; width: 100%; height: 360px; margin-bottom: 15px">
     <p style="font-family: 'Edu AU VIC WA NT Guides', cursive; font-weight: 700">
         - HELLO -
     </p>
