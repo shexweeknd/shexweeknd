@@ -1,9 +1,9 @@
 
 # Hello 🫱🏻‍🫲🏾
 
-I'm `shexweeknd` aka `hramaros`, a passionate of `programming`, `network engeneering` and `hacking` with a love for ***code and problem-solving***.
+I'm `shexweeknd` also known as `hramaros` in the ***42 Network***, a passionate of `programming`, `network engeneering` and `hacking` with a love for ***code and problem-solving***.
 
-## FROM WHERE ?
+## COMING FROM ?
 
 - **42 Anatananarivo**
 
