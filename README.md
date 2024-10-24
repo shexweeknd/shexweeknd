@@ -7,11 +7,11 @@ I'm `shexweeknd` also known as `hramaros` in the ***42 Network***, a passionate 
 
 - **42 Anatananarivo**
 
-> Actually I'm a student in The common core. 🧑🏾‍💻
+> At this time, I'm a student in The 42 common core cursus. 🧑🏾‍💻
 
 - **ESP Antsiranana**
 
-> Graduated with a bachelor's degree in 2023. 🎓
+> Graduated with a bachelor's degree since 2023. 🎓
 
 ## CONTACTS
 
